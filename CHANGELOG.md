@@ -9,6 +9,8 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 - rebrand [`[head]`](https://github.com/DevelopersToolbox/discordit/commit/)
 
+- rebrand [`[ab05d71]`](https://github.com/DevelopersToolbox/discordit/commit/ab05d712e557b1340effada38314f24820d39176)
+
 - rebrand [`[fa4bdeb]`](https://github.com/DevelopersToolbox/discordit/commit/fa4bdeb6af21484213eb1068ce5375a5bf133853)
 
 - Update travis slack integration due to new slack organisation [`[634f878]`](https://github.com/DevelopersToolbox/discordit/commit/634f8785b96cc4fb6c7294d6e84c4d8453b14cae)
