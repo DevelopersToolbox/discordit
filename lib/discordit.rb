@@ -1,6 +1,6 @@
-require "discordit/version"
+require 'discordit/version'
 
 module Discordit
-  class Error < StandardError; end
-  # Your code goes here...
+    class Error < StandardError; end
+    # Your code goes here...
 end
