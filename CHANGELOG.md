@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/DevelopersToolbox/discordit/commits/master)
 
-- rebrand [`[head]`](https://github.com/DevelopersToolbox/discordit/commit/)
+- New logo [`[head]`](https://github.com/DevelopersToolbox/discordit/commit/)
+
+- rebrand [`[a1c8639]`](https://github.com/DevelopersToolbox/discordit/commit/a1c8639cefd30f8e2733041a9acf982d9dc3f8b8)
 
 - rebrand [`[ab05d71]`](https://github.com/DevelopersToolbox/discordit/commit/ab05d712e557b1340effada38314f24820d39176)
 
